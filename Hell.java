@@ -1,3 +1,3 @@
 class Hell{
-System.out
+System.out.pti
 }
